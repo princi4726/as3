@@ -1,0 +1,45 @@
+.SUB1{
+    color: blue;
+    font-weight: bold;
+}
+.SUB2{
+    color: orange;
+    font-weight: bold;
+}
+.SUB3{
+    color: rgb(119, 40, 193);
+    font-weight: bold;
+}
+.SUB4{
+    color: green;
+    font-weight: bold;
+}
+.SUB5{
+    color: red;
+    font-weight: bold;
+}
+.SEMINAR{
+    font-weight: bold;
+    text-align: center;
+}
+.C{
+    font-weight: bold;
+}
+.LAB{
+    font-weight: bold;
+    text-align: center;
+}
+.SWA{
+    color: red;
+}
+th,table{
+    border: 2px solid black;
+}
+.LAUNCH
+{
+    writing-mode: horizontal-tb;
+}
+caption{
+    font-weight: bold;
+    font-size: 30px;
+}
